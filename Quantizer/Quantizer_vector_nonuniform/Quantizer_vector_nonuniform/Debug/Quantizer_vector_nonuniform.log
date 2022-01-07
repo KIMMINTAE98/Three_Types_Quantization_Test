@@ -1,0 +1,10 @@
+﻿  quantizer3.cpp
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(43,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(79,10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(79,27): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(79,44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(111,56): warning C4244: '+=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(112,56): warning C4244: '+=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(113,56): warning C4244: '+=': 'double'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Quantizer_vector_nonuniform\quantizer3.cpp(136,60): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Quantizer_vector_nonuniform.vcxproj -> C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Quantizer_vector_nonuniform\Debug\Quantizer_vector_nonuniform.exe

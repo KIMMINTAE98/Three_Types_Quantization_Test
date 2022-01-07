@@ -1,0 +1,4 @@
+﻿  dequantizer3.cpp
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Dequantizer_vector_nonuniform\Dequantizer_vector_nonuniform\dequantizer3.cpp(66,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Dequantizer_vector_nonuniform\Dequantizer_vector_nonuniform\dequantizer3.cpp(110,24): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Dequantizer_vector_nonuniform.vcxproj -> C:\Users\user\Documents\C++_Project\Digital_Signal_Process\Dequantizer_vector_nonuniform\Debug\Dequantizer_vector_nonuniform.exe
